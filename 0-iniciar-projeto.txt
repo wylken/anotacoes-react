@@ -1,0 +1,4 @@
+===Criar Projeto===
+> npm create vite@latest
+> React
+> TypeScript
