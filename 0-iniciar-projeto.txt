@@ -1,4 +1,18 @@
-===Criar Projeto===
+1. CRIANDO PROJETO
 > npm create vite@latest
 > React
 > TypeScript
+
+2. INSTALANDO DEPENDÊNCIAS 
+> yarn
+> yarn add styled-components
+> yarn add @types/styled-components -D
+
+3. RODANDO O PROJETO
+- Comando para rodar o projeto "yarn dev"
+
+4. EXTENSÕES VS CODE
+- vscode-styled-components
+- Material Icon Theme
+- Color Highlight
+- Portuguese (Brazil) Language Pack for Visual Studio Code
