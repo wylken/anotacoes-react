@@ -7,6 +7,9 @@
 > yarn
 > yarn add styled-components
 > yarn add @types/styled-components -D
+> yarn add eslint -D
+> yarn add @rocketseat/eslint-config -D
+> git config --global core.autocrlf false
 
 3. RODANDO O PROJETO
 - Comando para rodar o projeto "yarn dev"
@@ -16,3 +19,5 @@
 - Material Icon Theme
 - Color Highlight
 - Portuguese (Brazil) Language Pack for Visual Studio Code
+- ESLint
+
