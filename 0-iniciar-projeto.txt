@@ -10,6 +10,8 @@
 > yarn add eslint -D
 > yarn add @rocketseat/eslint-config -D
 > git config --global core.autocrlf false
+> yarn add react-router-dom
+> yarn add phosphor-react
 
 3. RODANDO O PROJETO
 - Comando para rodar o projeto "yarn dev"
